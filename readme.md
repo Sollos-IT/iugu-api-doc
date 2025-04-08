@@ -41,7 +41,7 @@ Segue um exemplo de header utilizando o x-access-token, no formato JSON:
 
 ## Rota de gerar assinatura
 
-Esta rota permite que o usuário gere uma assinatura RSA.
+A rota POST `/gerar-assinatura` permite que o usuário gere uma assinatura RSA.
 
 ### Requisição
 
